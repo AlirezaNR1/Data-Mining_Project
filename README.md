@@ -70,9 +70,9 @@ This project demonstrates the step-by-step process of exploring, cleaning, and a
 
 For any inquiries or further information, please contact us at:
 
-•   Faridreza Momtaz Zandi - faridmmz79@gmail.com
-
 •   Alireza Noorbakhsh - noorbakhsha1@gmail.com
+
+•   Faridreza Momtaz Zandi - faridmmz79@gmail.com
 
 Thank you for exploring our data mining project!
 
