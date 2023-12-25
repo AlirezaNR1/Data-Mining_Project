@@ -1,5 +1,5 @@
 # Data Mining Project
-Welcome to the Data Mining Project conducted by Faridreza Momtazzandi and Alireza Noorbakhsh. This project was one of our biggest and most proud works in our university-related projects so we're really happy to present it to you! Feel free to ask us any questions you might ever have on this project.
+Welcome to the Data Mining Project conducted by Alireza Noorbakhsh and Faridreza Momtaz. This project was one of our biggest and most proud works in our university-related projects so we're really happy to present it to you! Feel free to ask us any questions you might ever have on this project.
 
 ![Photo by <a href="https://unsplash.com/@cgower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christopher Gower</a> on <a href="https://unsplash.com/photos/m_HRfLhgABo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   ](https://github.com/faridmmz/Data-Mining-Project/blob/main/README_image.jpg "Photo by Christopher Gower on Unsplash")
